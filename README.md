@@ -5,15 +5,19 @@
 
 Дополнительные материалы:
 
-Ссылка на статью о __дженериках__
+Ссылка на статью о __дженериках:__
+
 https://www-baeldung-com.translate.goog/java-generics?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc
 
-ссылка на статью о __LinkedList__
+ссылка на статью о __LinkedList:__
 
 https://habr.com/ru/post/337558/
 
-ссылка на ролик по __LinkedList__
+ссылка на ролик по __LinkedList:__
+
 https://www.youtube.com/watch?v=BH6RJf2fVCQ
 
-__LinkedList__ на английском: https://www.youtube.com/watch?v=ZlNKNSz88Nk&t=483s&ab_channel=BlueTreeCode
+__LinkedList__ на английском:
+
+https://www.youtube.com/watch?v=ZlNKNSz88Nk&t=483s&ab_channel=BlueTreeCode
 
