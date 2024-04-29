@@ -21,3 +21,7 @@ __LinkedList__ на английском:
 
 https://www.youtube.com/watch?v=ZlNKNSz88Nk&t=483s&ab_channel=BlueTreeCode
 
+***PS.***
+
+Вроде правильно, комментарии к коду оставил для себя (знаю что так не пишут).
+
